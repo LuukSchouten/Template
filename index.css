@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    width: 1349px;
+}
+
+.socials{
+    height: 40px;
+}
+
+ul{
+    float: right;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    margin: 0;
+}
+
+.socials a{
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu a{
+    opacity: 20%;
+    text-decoration: none;
+    color: white; 
+}
+
+a{
+    text-decoration: none;
+    color: white; 
+}
+
+#wifi{
+    padding: 10px;
+    padding-bottom: 14px;
+    background-color: #D3D3D3;
+    padding-top: 10px;
+}
+
+#twitter{
+    padding: 10px;
+    padding-bottom: 14px;
+    background-color: #D3D3D3;
+    padding-top: 10px;
+}
+
+#facebook{
+    padding: 10px;
+    padding: 10px;
+    padding-bottom: 14px;
+    background-color: #D3D3D3;
+    padding-top: 10px;
+}
+
+#googleplus{
+    padding: 10px;
+    padding-bottom: 14px;
+    margin-right: 38px;
+    background-color: #D3D3D3;
+}
+
+
+.main{
+    text-align: center;
+    height: 627px;
+    background-size: cover;
+    background-image: url('images/header_bg.jpg');
+    background-repeat: no-repeat;
+}
+
+.mainlogo{
+    position: relative;
+}
+
+#mainlogoimg{
+    margin-top: 200px;
+}
+
+.menu{
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.menu li{
+    margin-right: 50px;
+}
+
+.menutxt{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+}
